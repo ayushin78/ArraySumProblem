@@ -28,3 +28,8 @@ Count of pairs with sum lesser than k(12) : 8
 
 Run [ArraySumTest](https://github.com/ayushin78/ArraySumProblem/blob/main/test/com/ayushin78/ArraySumTest.java) class. It uses jUnit library so will need to import the same to run the tests.
 
+### Complexity
+```
+ Time Complexity : O(nlogn)
+ Space Complexity : O(1)
+```
